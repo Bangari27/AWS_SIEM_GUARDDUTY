@@ -3,4 +3,4 @@ Amazon GuardDuty is a threat detection service that continually monitors your Am
 
 
 
-SECOPS| CloudWatch |Lambda |SNS| Cloud Formation to create slack template.
+SECOPS | CloudWatch | Lambda | SNS | Cloud Formation to create slack template.
